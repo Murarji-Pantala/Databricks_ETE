@@ -2,9 +2,8 @@
 Databricks End to End Project 
 
 Project Outlook 
- 
- ![alt text](<Screenshot 2025-05-22 204639.png>)
 
+![alt text](<Screenshots/Screenshot 2025-05-22 204639.png>)
 
 Let's Go Step by Step 
 
